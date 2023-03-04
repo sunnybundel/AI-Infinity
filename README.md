@@ -873,6 +873,8 @@ SlashDreamer introduces a new command: /dream
 
 ### •Spreadsheets:
 
+[Sheeter.ai](https://sheeter.ai/) - AI-Powered Excel Formula Generator Tool.
+
 [Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
 
 [Goodlookup](https://www.goodlookup.com/) - Goodlookup is a smart function for spreadsheet users.
